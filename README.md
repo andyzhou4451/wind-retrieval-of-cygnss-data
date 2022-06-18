@@ -1,6 +1,6 @@
 # wind-retrieval-of-cygnss-data
 wind retrieval for cygnss data using era5 wind speed model
-the time of the data used in the code is janunary 1,2021
+the time of the data used in the code is january 1,2021
 
 cygnss training data download from:
 https://podaac.jpl.nasa.gov/dataset/CYGNSS_L1_V2.1
