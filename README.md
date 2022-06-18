@@ -9,3 +9,5 @@ GT wind speed download from:
 https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=form
 remember to download 10m u-component of wind and 10m v-component of wind ,then select netcdf format
 
+reference:https://github.com/PKUliubaojian/Read_and_Filter_CyGNSS.git
+
